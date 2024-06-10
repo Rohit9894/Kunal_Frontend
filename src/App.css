@@ -1,0 +1,7 @@
+.App {
+  height: calc(100vh - 80px);
+  background-size: contain;
+  background-position: center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
